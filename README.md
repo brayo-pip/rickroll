@@ -16,10 +16,14 @@ Copy the account_SID and auth_token from your twilio account and intialize them 
 
 You need to install the Twilio package
 
+```console
 $pip install twilio
+```
 
 ## Running the script
 
 After intializing everything simply the script by running the call.py
 
+```console
 $python call.py
+```
