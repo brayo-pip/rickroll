@@ -12,7 +12,7 @@ Obviously you need to have python installed on your PC.
 
 You need a Twilio trial account or paid account. Sign Up at twilio.com.
 
-Copy the account_SID and auth_token from your twilio account and intialize them in the code.(They are currently left blank). Intialize twilio_number to the number that given to you by Twilio. Then set the target_number to your phone number ,if you want to do some dry runs first, or set the phone number to the actual person you want to rickroll if you like to hit the ground running. Make sure you intialize the phone numbers inclusive of your area codes e.g +254713412345 or +12055515516
+Copy the account_SID and auth_token from your twilio account and initialize them in the code.(They are currently left blank). Initialize twilio_number to the number that given to you by Twilio. Then set the target_number to your phone number ,if you want to do some dry runs first, or set the phone number to the actual person you want to rickroll if you like to hit the ground running. Make sure you initialize the phone numbers inclusive of your area codes e.g +254713412345 or +12055515516
 
 You need to install the Twilio package
 
